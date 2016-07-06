@@ -1,0 +1,16 @@
+site_name: Pillar
+site_description: Project documentation of the Pillar framework.
+# theme: readthedocs
+extra:
+  version: 1.0
+
+pages:
+- Home: index.md
+- Development:
+    - Intro: development/index.md
+    - Architecture: development/architecture.md
+    - Roadmap: development/roadmap.md
+- About: about.md
+
+
+copyright: Copyright &copy; 2016 Blender Institute - CC-BY-SA v4.0.
