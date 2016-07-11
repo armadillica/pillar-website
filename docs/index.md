@@ -4,7 +4,7 @@ Pillar is a framework used to build the custom CMS that runs on the
 [Blender Cloud](https://blender.cloud). Pillar is Free and Open Source software,
 developed at the Blender Institute.
 
-![Screenshot](index_blender_cloud_preview.png)
+![Screenshot](img/index_blender_cloud_preview.png)
 
 Currently Pillar is used as publishing platform to share production assets,
 documentation and video training. Other possible uses include production/shot

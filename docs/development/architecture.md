@@ -3,6 +3,8 @@
 Pillar is designed around a flat data storage, using a layered access approach.
 The stack, in terms of services, looks like this:
 
+![](img/architecture_pillar_architecture.svg)
+
 * mongo datastore: all data (not files) is stored here
 * pillar (server): provides REST API to access data
 * pillar-web: web interface for pillar (uses the pillar-python-sdk)

@@ -9,6 +9,7 @@ pages:
 - Development:
     - Intro: development/index.md
     - Architecture: development/architecture.md
+    - Authentication: development/authentication.md
     - Roadmap: development/roadmap.md
 - About: about.md
 
